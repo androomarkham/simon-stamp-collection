@@ -3,7 +3,6 @@ Simon's Stamp Collection App
 
 #About Simon
 
-Stuff about Simon's Stamps here...
 
 
-asdfasfsdf
+New York Times raves: "This is the best stamp collection of the ages!"
